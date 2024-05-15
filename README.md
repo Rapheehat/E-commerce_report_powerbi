@@ -39,12 +39,12 @@ E-commerce Dataset.csv: A sample dataset used for the analysis.
 README.md: This file, providing an overview of the project.
 
 
-#Contributing
+# Contributing
 Contributions are welcome! If you have any suggestions or improvements, feel free to create an issue or submit a pull request.
 
-License
+# License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-Acknowledgements
+# Acknowledgements
 Thank you for exploring this project. If you have any questions or feedback, please reach out.
 Email: ajiboderafiat@yahoomail.com
